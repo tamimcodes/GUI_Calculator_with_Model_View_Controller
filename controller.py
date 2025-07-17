@@ -1,3 +1,5 @@
+# Run this file to play with calculator.
+
 from model import Model
 from view import View
 
